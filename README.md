@@ -1,2 +1,2 @@
-# zyn-hosting - mods mc
+# zyn-hosting
 Hi
